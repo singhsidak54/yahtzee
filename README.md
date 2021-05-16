@@ -12,7 +12,8 @@ Each round, they must assign their dice to any unclaimed scoring category. Each 
 After 13 rounds, the game is over, and the player’s score is the total of each scoring category.
 
 ### Scoring Categories
-![Categories](./public/resources/scoring-table.png)
+
+<img src="./public/resources/scoring-table.png" alt="Categories" width="600" height="300"/>
 
 ### Example Round
 The initial roll is: 2 4 3 2 5.
@@ -31,5 +32,14 @@ Sadly, they didn’t get their full house. They could score this as:
 
 Any other category they claimed on this round would score 0.
 
+## How to Run
+
+1. Clone this repo.
+2. Run the following commands
+
+```
+npm install
+npm start
+```
 
 Some starter code was given for this project. You can compare final code with the starter code by clicking [here.](https://github.com/singhsidak54/yahtzee/compare/starter-code...main)
